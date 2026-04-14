@@ -124,7 +124,8 @@ App displays scores + feedback
 
 **Khushi Sharma**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/khushissharma
+)
 [![GitHub](https://img.shields.io/badge/GitHub-sharmakhushi18-black?style=flat&logo=github)](https://github.com/sharmakhushi18)
 
 
