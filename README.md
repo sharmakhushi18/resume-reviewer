@@ -2,7 +2,7 @@
 
 > Paste your resume + job description → Get instant AI-powered feedback in seconds.
 
-🔗 **Live Demo:** https://resume-reviewer-xyz.vercel.app
+🔗 **Live Demo:** https://resume-reviewer-nu.vercel.app/
 
 ---
 
